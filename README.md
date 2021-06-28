@@ -1,0 +1,1 @@
+This is the backend server and REST API code for a MERN stack blog web application.
